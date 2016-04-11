@@ -1,7 +1,9 @@
 body {
     font-family: "Arial", Verdana, Sans-Serif;
 	background-image: url("background.jpg");
-}
+	background-size: 100% 235%;
+	
+}	
 
 
 
@@ -94,8 +96,9 @@ p {
 /***************Header*********/
 #h {
 	text-align: center;
-	color: #20B2AA;
-	
+	color: green;
+
+
 }
 
 
