@@ -52,6 +52,7 @@
 	bottom: 15px;
 	left: 10px;
 	text-align: center;
+	float: right;
 
 }
 
@@ -63,6 +64,7 @@
 	bottom: 15px;
 	left: 10px;
 	text-align: center;
+	float:right;
 }
 #h3 {
 	background-color:yellow;
@@ -72,6 +74,7 @@
 	bottom: 15px;
 	left: 10px;
 	text-align: center;
+	float:right;
 
 
 }
