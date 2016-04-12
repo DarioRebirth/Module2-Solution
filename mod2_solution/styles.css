@@ -21,37 +21,10 @@ body {
   top: 65px;
   left: 115px;
   margin-left: 35px;
-}
-#box2 {
-  background-color: gray;
-  padding: 10px;
-  border: 1px solid black;
-  width: 400px;
-  height: 185px;
-  margin-top: 50px;
-  overflow: auto;
-  float:left;
-  position:relative;
-  top: 65px;
-  left: 115px;
-  margin-left: 35px;
-}
-#box3 {
-  background-color: gray;
-  padding: 10px;
-  border: 1px solid black;
-  width: 400px;
-  height: 185px;
-  margin-top: 50px;
-  overflow: auto;
-  float:left;
-  position:relative;
-  top: 65px;
-  left: 115px;
-  margin-left: 35px;
+  opacity: 1px;
 
-  @media (min-width: 768px) and max with: 991px;
 }
+
 /************************Titles' Background Color*********************/
 #h1 {
 	background-color:pink;
