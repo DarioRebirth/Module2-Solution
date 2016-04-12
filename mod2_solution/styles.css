@@ -11,6 +11,7 @@ body {
 /************************Box Content*********************************/
 #box1 {
   background-color: #ADD8E6;
+  opacity: .78;
   padding: 10px;
   border: 1px solid black;
   width: 400px;
