@@ -90,6 +90,13 @@ p {
 
 /*********************** Tablet devices *******************/
 @media (min-width: 768px) and (max-width: 991px) {
+	#box1 {
+		width: 50%;
+	}
+	#box2 {
+		width:50%;
+	}
+
 	#box3 {
 		width: 100%;
 	}
