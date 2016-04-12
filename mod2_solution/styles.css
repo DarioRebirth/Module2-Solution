@@ -2,6 +2,7 @@ body {
     font-family: "Arial", Verdana, Sans-Serif;
 	background-image: url("bg1.jpg");
 	background-size: 100% 235%;
+
 	
 }	
 
@@ -21,7 +22,7 @@ body {
   top: 65px;
   left: 95px;
   margin-left: 35px;
-  opacity: .1%;
+  
 
 
 }
@@ -74,6 +75,7 @@ p {
 #h {
 	text-align: center;
 	color: black;
+
 	
 
 
@@ -98,6 +100,10 @@ p {
 
 /********************** Mobile Devices *******************/
 @media (min-width: 767px) and (max-width: 767px) {
+	#box1 {
+		width: 100%;
+	}
+
 	#box2 {
 		width: 100%;
 	}
